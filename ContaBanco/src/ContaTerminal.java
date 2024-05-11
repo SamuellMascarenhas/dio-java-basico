@@ -1,5 +1,12 @@
 import java.util.Scanner;
 import java.util.Locale;
+
+/**
+ * @author  Samuel Mascarenhas
+* @version 1.0
+* @since   11/05/2024
+ */
+
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
 
